@@ -8,7 +8,7 @@ This project is a simple TCP proxy server built using Deno. It specifically hand
 
 - **TCP Proxy**: Handles raw TCP connections.
 - **HTTP CONNECT Method Support**: Establishes a tunnel between the client and the target server using the HTTP `CONNECT` method.
-- **Port 8081**: The proxy listens exclusively on port `8081` by defaul. (can be ovveride by PORT env value)
+- **Port 8081**: The proxy listens exclusively on port `8081` by default. (can be override by PORT env value)
 
 ## How It Works
 
